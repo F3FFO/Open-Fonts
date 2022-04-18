@@ -13,6 +13,11 @@ This module helps you to replace your system fonts though Magisk.
 
 - Many devices with [LOS](https://lineageos.org/)
 
+## Known bug
+
+- Font in some website is not showed correctly
+
+
 ## Support
 
 **If you found this helpful, please consider supporting development with a [coffe](https://www.paypal.me/f3ff0). Alternatively, you can contribute to the project by reporting bugs and doing PR. All support is appreciated!**
@@ -28,12 +33,12 @@ This module helps you to replace your system fonts though Magisk.
 | change | AndroidCLock                 | OpenSans-Regular (modified) | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | CarroisGothicSC-Regular      | OpenSans-Regular            | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | ComingSoon                   | OpenSans-Regular            | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
-| change | CutiveMono                   | Cousine-Regular             | [Cousine](https://fonts.google.com/specimen/Cousine) |
+| change | CutiveMono                   | FiraCode-Light              | [Fira Code](https://github.com/tonsky/FiraCode) |
 | change | DancingScript-Bold           | OpenSans-Bold               | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | DancingScript-Regular        | OpenSans-Regular            | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | DroidSans                    | OpenSans-Regular            | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | DroidSans-Bold               | OpenSans-Bold               | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
-| change | DroidSansMono                | Cousine-Regular             | [Cousine](https://fonts.google.com/specimen/Cousine) |
+| change | DroidSansMono                | FiraCode-Regular            | [Fira Code](https://github.com/tonsky/FiraCode) |
 | change | Lato-Bold                    | OpenSans-Bold               | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | Lato-BoldItalic              | OpenSans-BoldItalic         | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | Lato-Italic                  | OpenSans-Italic             | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
