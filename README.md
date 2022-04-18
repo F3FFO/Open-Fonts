@@ -6,7 +6,7 @@ This module helps you to replace your system fonts though Magisk.
 
 ## Compatibility
 
-- Any Android device
+- Any Android device with AOSP rom
 - Magisk 20.4+
 
 ## Tested Device
@@ -19,7 +19,7 @@ This module helps you to replace your system fonts though Magisk.
 
 ## Features
 
-- Works on any device running Android 9.0+ and Magisk 20.4+
+- Works on any device running AOSP rom with Android 9.0+ and Magisk 20.4+
 - Support latest Noto Emoji version ([Unicode 14.0](https://emojipedia.org/unicode-14.0/))
 - Fully replaces the system font:
 
@@ -31,6 +31,8 @@ This module helps you to replace your system fonts though Magisk.
 | change | CutiveMono                   | FiraCode-Light              | [Fira Code](https://github.com/tonsky/FiraCode) |
 | change | DancingScript-Bold           | OpenSans-Bold               | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | DancingScript-Regular        | OpenSans-Regular            | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
+| change | DroidSans                    | OpenSans-Regular            | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
+| change | DroidSans-Bold               | OpenSans-Bold               | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | DroidSansMono                | FiraCode-Regular            | [Fira Code](https://github.com/tonsky/FiraCode) |
 | change | Lato-Bold                    | OpenSans-Bold               | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
 | change | Lato-BoldItalic              | OpenSans-BoldItalic         | [Open Sans](https://fonts.google.com/specimen/Open+Sans) |
